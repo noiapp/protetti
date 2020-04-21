@@ -5,5 +5,5 @@
 - "Equivalente di Testfligh" per distribuire l'app Android: open
 - Tradurre l'app android in italiano: open
 - Tradurre l'app iOS in italiano: open
-- Implementare un tema per pubblicare il sito su GitHub pages: open
+- Implementare un tema per pubblicare il sito su GitHub pages: Pierluigi Di Lorenzo
 
