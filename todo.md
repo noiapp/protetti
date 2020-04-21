@@ -4,6 +4,7 @@
 
 # Assigned
 
+- Mettere l'https con caddy: Pierlugi Di Lorenzo
 - Tradurre l'app android in italiano: Maurizio Papini
 - Fare una icona per l'app: Davide Marziano
 
