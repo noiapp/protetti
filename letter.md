@@ -29,5 +29,5 @@ di essere di aiuto e non un peso, di accelerare i tempi e non rallentarli.
 
 In Fede,
 
-Michele Sciabarrà - Sviuppatore Backend (Scala,Go) Membro PMC Apache Foundation
-Orizio Pierangelo - Full Stack developer
+- Michele Sciabarrà - Sviuppatore Backend (Scala,Go) Membro PMC Apache Foundation
+- Orizio Pierangelo - Full Stack developer
