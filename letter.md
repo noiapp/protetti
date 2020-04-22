@@ -19,7 +19,7 @@ A tale riguardo, il codice viene rilasciato fin dal primo giorno in modo da cons
 di collaborare nel suo campo di specializzazione fornendo contributi a tutti i livelli, 
 dal segnalare un errore, al correggerlo, ad aggiungere una funzione, al documentarlo.
 
-In nessuno modo qusta apertura può danneggiare il processo di sviluppo, il soggetto incaricato rimarrà
+In nessuno modo questa apertura può danneggiare il processo di sviluppo, il soggetto incaricato rimarrà
 sempre l'ultimo a decidere cosa accettare o cosa no. 
 
 Questa community brulica di energie positive, vuole semplicemente collaborare e si è dotata degli strumenti per farlo.
