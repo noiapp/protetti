@@ -14,7 +14,7 @@
 - Generare le interfacce REST a partire dallo swagger (API First): Ciro Cardone
 - Migrazione a java 11
 - Add spring data jpa
-- Add performormance test
+- Add performance test
 - Add coverage report and rules
 - Add spotbugs
 - Add checkstyle rules
@@ -28,3 +28,5 @@
 - Mettere l'https con caddy: Pierlugi Di Lorenzo: DONE
 - Tradurre l'app android in italiano: Maurizio Papini: DONE
 - Fare una icona per l'app: Davide Marziano: DONE
+# Infra
+- Creare un bucket S3 per il download della app con script di installazione
