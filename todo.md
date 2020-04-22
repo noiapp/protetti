@@ -6,6 +6,7 @@
 
 - IOS: connettere al server
 - Android: connettere al server
+- Trovare un modo per distribuire le app in test visto che non le accettano negli store
 
 ## Backend 
 - Sincronizzare il lavoro con upstream in un repo separato: Carlo Alberto Degli Atti
