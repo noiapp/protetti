@@ -24,8 +24,7 @@
 - Testflight per distribuire l'app ios: Alessandro Grigiante: DONE
 - Installare il backed su un server: Francesco Bartoli: DONE
 - Implementare un tema per pubblicare il sito su GitHub pages: Pierluigi Di Lorenzo: DONE
-- "Equivalente di Testfligh" per distribuire l'app Android: DONE buil
-
-- Mettere l'https con caddy: Pierlugi Di Lorenzo
-- Tradurre l'app android in italiano: Maurizio Papini
-- Fare una icona per l'app: Davide Marziano
+- "Equivalente di Testfligh" per distribuire l'app Android: DONE
+- Mettere l'https con caddy: Pierlugi Di Lorenzo: DONE
+- Tradurre l'app android in italiano: Maurizio Papini: DONE
+- Fare una icona per l'app: Davide Marziano: DONE
