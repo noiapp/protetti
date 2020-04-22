@@ -31,3 +31,10 @@ In Fede,
 
 - Michele Sciabarrà - Sviuppatore Backend (Scala,Go) Membro PMC Apache Foundation
 - Orizio Pierangelo - Full Stack developer
+- Ciro Cardone - Sviuppatore Backend
+- Anas El Amraoui - Lead Developer
+- Carlo Alberto Degli Atti - full-stack developer
+- Enrico Viale (Full-stack developer)
+- Domenico Stragapede - Full-stack developer
+- Marco Denisi - Software Engineer
+
