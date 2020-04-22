@@ -37,4 +37,4 @@ In Fede,
 - Enrico Viale (Full-stack developer)
 - Domenico Stragapede - Full-stack developer
 - Marco Denisi - Software Engineer
-
+- Marco Sinigaglia - Full-stack developer
