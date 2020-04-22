@@ -8,7 +8,14 @@
 - Tradurre l'app android in italiano: Maurizio Papini
 - Fare una icona per l'app: Davide Marziano
 - Sincronizzare il lavoro con upstream in un repo separato: Carlo Alberto Degli Atti
-
+- Aggiungere servizio discovery: Ciro Cardone
+- Generare le interfacce REST a partire dallo swagger (API First): Ciro Cardone
+- Migrazione a java 11
+- Add spring data jpa
+- Add performormance test
+- Add coverage report and rules
+- Add spotbugs
+- Add checkstyle rules
 
 
 # Done
