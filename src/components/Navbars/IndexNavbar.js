@@ -52,7 +52,7 @@ function IndexNavbar() {
             data-placement="bottom"
             href="/index"
             target="_blank"
-            title="Coded by Creative Tim"
+            title="NoiApp Community"
           >
             Paper Kit React
           </NavbarBrand>
@@ -77,7 +77,7 @@ function IndexNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="https://twitter.com/noiapp"
+                href="https://twitter.com/protettiapp"
                 target="_blank"
                 title="Follow us on Twitter"
               >

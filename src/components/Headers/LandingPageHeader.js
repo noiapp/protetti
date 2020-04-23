@@ -45,19 +45,20 @@ The application in the current shape has been developed native both for Android 
 	  <p>Here we provide you the packages of the application, ready to be installed in your phone.
 	  </p>
           <Button
-              href="./pkg/noiapp.apk"
+              href="https://github.com/noiapp/noi-app-android/releases"
               className="btn-round" color="neutral" type="button" outline
               color="neutral"
               target="_blank"
               outline>
-	  NOI APP ANDROID
+	  NOIAPP ANDROID
   </Button>
             
           <Button href="./pkg/noiapp.api"
       className="btn-round" color="neutral" type="button" outline
-      color="neutral">
-	  NOI APP IPHONE
-            </Button>
+      color="neutral" disabled>
+	 NOIAPP IPHONE / WORK IN PROGRESS 
+          </Button>
+	  
           </div>
         </Container>
       </div>
