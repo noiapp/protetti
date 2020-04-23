@@ -72,7 +72,7 @@ function ExamplesNavbar() {
         <div className="navbar-translate">
           <NavbarBrand
             data-placement="bottom"
-            to="/website"
+            to="/index"
             target="_blank"
             title="Coded by Noi App Community"
             tag={Link}

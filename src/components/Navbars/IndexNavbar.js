@@ -50,7 +50,7 @@ function IndexNavbar() {
         <div className="navbar-translate">
           <NavbarBrand
             data-placement="bottom"
-            href="/website"
+            href="/index"
             target="_blank"
             title="NoiApp Community"
           >
