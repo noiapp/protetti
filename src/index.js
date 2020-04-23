@@ -14,8 +14,8 @@ import LandingPage from "views/noiapp/LandingPage.js";
 ReactDOM.render(
   <BrowserRouter>
     <Switch>
-      <Route path="/index" render={props => <LandingPage {...props} />} />
-          <Redirect to="/index" />
+      <Route path="/website" render={props => <LandingPage {...props} />} />
+          <Redirect to="/website" />
     </Switch>
   </BrowserRouter>,
   document.getElementById("root")
