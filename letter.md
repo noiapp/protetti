@@ -1,31 +1,43 @@
-Ministro Paola Pisano,
+Lettera aperta al Ministro dell’Innovazione Tecnologica e della Digitalizzazione, Dott. Paola Pisano
 
-la comunità NoiApp composta dai sottoscritti, con varie esperienza e competenze in termini 
-di sviluppo sofware e gestione sistemi,  ma certamente tali da poter dare un valido contributo, 
-ha votato per convergere nel supportare lo sviluppo dell'App Immuni, 
-in quanto in nessun modo si vuole frammentare il mercato.
 
-L'approccio aperto è stato più volte dichiarato, 
-ma nei fatti si è optato per un affidamento esclusivo 
-a un solo soggetto, che ha chiesto che "lo si lasci lavorare".
 
-Tutto ciò appare in contrasto con le dichiarazioni di principio di voler favorire l'apertura e l'inclusività. 
+Gentile Ministra, 
 
-Mi permetto di ribadire che l'Open Source non è e non è mai stato riguardo "le licenze" 
-ma riguardo il "metodo", comunitario e inclusivo. Prodotti come Linux, Apache, e praticamente 
-tutta l'infrastruttura di Internet, sono stati sviluppati in questo modo.
+Siamo un gruppo di professionisti dell’informatica e delle sue applicazioni con una consistente esperienza cumulativa nel disegno e realizzazione di applicazioni software che includono architetture distribuite e soluzioni complesse sia lato gestione che presentazione, e i relativi requisiti di affidabilità, scalabilità e sicurezza.
 
-A tale riguardo, il codice viene rilasciato fin dal primo giorno in modo da consentire a chiunque
-di collaborare nel suo campo di specializzazione fornendo contributi a tutti i livelli, 
-dal segnalare un errore, al correggerlo, ad aggiungere una funzione, al documentarlo.
+ 
 
-In nessuno modo questa apertura può danneggiare il processo di sviluppo, il soggetto incaricato rimarrà
-sempre l'ultimo a decidere cosa accettare o cosa no. 
+Le scriviamo per dare la nostra disponibilità a contribuire volontariamente e senza fini di lucro alla risoluzione del problema affrontato nell’Ordinanza 10/2020 del 16 Aprile che assegna lo sviluppo di un’applicazione di contact tracing per limitare e monitorare la diffusione di COVID-19.
 
-Questa community brulica di energie positive, vuole semplicemente collaborare e si è dotata degli strumenti per farlo.
-Le chiediamo pertanto di consentire alla nostra community di supportare il progetto con le nostre competenze 
-e di permetterci di collaborare, di aggiungere valore e non di sottarlo, di facilitare le cose e non di complicarle,
-di essere di aiuto e non un peso, di accelerare i tempi e non rallentarli.
+ 
+
+Abbiamo accolto con entusiasmo la conferma che il progetto tecnico avrà una soluzione open source: siamo fermamente convinti che sia l’unico modo per garantire sin da subito la dovuta trasparenza, trattandosi di un servizio verso i cittadini dell’intero paese, e che permetta la collaborazione di chiunque desideri partecipare, garantendo serietà e competenza.
+
+ 
+
+Il termine open source non e’ in contraddizione con una chiara divisione di responsabilità o di efficienza:  la nostra collaborazione non cambierebbe il ruolo di guida assegnato all’azienda selezionata dall’Ordinanza, ma anzi ne garantirebbe il supporto e un aiuto.
+
+  
+
+Con lo stesso spirito, riteniamo che la collaborazione debba essere aperta a professionisti che, da diversi punti di vista e in relazione a discipline diverse, hanno posto domande su aspetti critici per il progetto e quindi per tutti noi:
+
+
+Revisione della strategia per assicurarsi che la soluzione
+
+adottata si basi su una possibilità d’uso realistica, per esempio partendo da una valutazione su quanto BLE sia diffuso;
+
+Gestione dei dati, del loro anonimato e proprietà, e conseguente uso di tecnologie;
+
+Uso dell’applicazione per segnalare casi di positività: come evitare omissioni, falsi allarmi, uso da parte di malintenzionati;
+
+Visione su come integrare la soluzione con altre applicazioni attualmente in fase di sviluppo sia in Italia che all’estero, passo essenziale per il tracciamento della mobilità a livello europeo.
+
+Come informatici rimaniamo in attesa del vero primo passo: la condivisione immediata del codice dell’applicazione.
+
+Siamo a disposizione per lavorare con chiunque creda, come Lei, che solo insieme si possa trovare la soluzione migliore.
+
+
 
 In Fede,
 
