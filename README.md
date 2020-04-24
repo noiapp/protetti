@@ -4,5 +4,5 @@
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 - [Want to help? Here is how.](helpus.md)
 - [Things to do](https://github.com/noiapp/project)
-- [Pre Pre Pre Pre Release](https://github.com/noiapp/noi-app-android/releases/tag/0.1) No warranties! It may not work at all or even destroy you phone. You are on your own.
+- [Pre Release 0.2.0](https://github.com/noiapp/noi-app-android/releases/tag/0.2.0) No warranties! It may not work at all or even destroy you phone. You are on your own.
 
