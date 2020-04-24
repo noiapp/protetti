@@ -1,4 +1,4 @@
-# Open Source is about communities, nod code
+# Open Source is about communities, not code
 
 - [Who we are and what we do](about.md)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
