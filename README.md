@@ -1,5 +1,10 @@
 ## Open Source is about communities, not code
 
+Se volete aiutarci con il test della app Android, aprite delle [issues](https://github.com/noiapp/noi-app-android/issues) qui.
+
+Le issues più sono chiare e precise e più sono utili. Una issue "non funziona un tubo" non serve a nulla, una issue "nella pagina 3 c'è il numero svizzero allego screenshot" è invece molto utile.
+
+
 - [Who we are and what we do](about.md)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 - [Want to help? Here is how.](helpus.md)
