@@ -26,7 +26,8 @@ function LandingPageHeader() {
     <>
       <div
         style={{
-          backgroundImage: "url(" + require("assets/img/italy.jpg") + ")"
+          backgroundImage: "url(" + require("assets/img/italy.jpg") + ")",
+          "max-height": "none", "padding-top": "70px"
         }}
         className="page-header"
         data-parallax={true}
@@ -36,7 +37,7 @@ function LandingPageHeader() {
         <Container>
           <div className="motto text-center">
             <h1>Noi App Community COVID-19 Tracking</h1>
-            <h3>Noi App project aims to create a contact tracing mobile based on the <a href="https://github.com/DP-3T">DP-3T standard </a>, specifically aimed at the Italian population. This standard is designed to be privacy respectful and does not share information, except anonymized data for voluntary disclosure by people who find themself infected. Those data can then be checked by the app to verify if you were in contact with someone infected.
+            <h3>Noi App project aims to create a contact tracing mobile based on the <a href="https://github.com/DP-3T" target="_blank" rel="noopener noreferrer">DP-3T standard </a>, specifically aimed at the Italian population. This standard is designed to be privacy respectful and does not share information, except anonymized data for voluntary disclosure by people who find themself infected. Those data can then be checked by the app to verify if you were in contact with someone infected.
 
 Furthermore, this standard appears to be compatible with the upcoming API of Apple/Google for contact tracing.
 
@@ -49,6 +50,7 @@ The application in the current shape has been developed native both for Android 
               className="btn-round" color="neutral" type="button" outline
               color="neutral"
               target="_blank"
+              rel="noopener noreferrer"
               outline>
 	  NOIAPP ANDROID
   </Button>
