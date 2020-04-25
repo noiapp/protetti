@@ -18,17 +18,21 @@ richiedendo di poter parlare e *aggiungendo l'autorizzazione che il loro interve
 Darò il diritto di parlare a tutti inizialmente in ordine di arrivo. Eventuali nuove repliche dovranno aspettare che tutti gli altri abbiano parlato, e verrano date sempre in ordine di arrivo.
 
 --> 
-# Incontro community concluso 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5mNIAq5bYpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 ## Abbiamo fatto una community, non un'app.
+
+Welcome! May the source be with you.
+
+### Community Call 25/04/2020
+
+<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Demo di Protetti per Android versione alpha
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dPB7uXrVibc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Se volete aiutarci con il test della app Android, aprite delle [issues](https://github.com/noiapp/noi-app-android/issues) qui.
 
 Le issues più sono chiare e precise e più sono utili. Una issue "non funziona un tubo" non serve a nulla, una issue "nella pagina 3 c'è il numero svizzero allego screenshot" è invece molto utile.
-
 
 ## Open Source is about communities, not code
 
@@ -37,7 +41,6 @@ Le issues più sono chiare e precise e più sono utili. Una issue "non funziona 
 - [Want to help? Here is how.](helpus.md)
 - [Things to do](https://github.com/noiapp/project)
 - [Pre Release 0.2.0](https://github.com/noiapp/noi-app-android/releases/tag/0.2.0) 
-
 
 All open source software, and this one also, is distributed with absolutely No warranties! 
 
