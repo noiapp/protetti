@@ -1,3 +1,14 @@
+---
+layout: home
+header:
+  title: NoiApp
+  text: >
+    Open Source Contact Tracking for the Italian Population
+  action:
+    label: Learn More
+    url: '/about'
+---
+
 Welcome! May the source be with you.
 
 ### Per quanto riguarda la commmunity:
