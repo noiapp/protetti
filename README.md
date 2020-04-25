@@ -1,31 +1,10 @@
-
-<!--
-
-# Oggi Sabato 25 Aprile Ore 15.00 Incontro Zoom URGENTE della community
-
-L'incontro sarà pubblico, registrato e postato su YouTube, 
-
-Connettersi
-
-Potranno parlare tutti, inizialmente per un minuto al massimo.
-
-[https://us02web.zoom.us/j/9256813844](https://us02web.zoom.us/j/9256813844)
-
-Tutti coloro che desiderano parlare dovranno inviare una email a [noiappcall@gmail.com](noiappcall@gmail.com)
-
-richiedendo di poter parlare e *aggiungendo l'autorizzazione che il loro intervento venga registrato e postato su YouTube*.
-
-Darò il diritto di parlare a tutti inizialmente in ordine di arrivo. Eventuali nuove repliche dovranno aspettare che tutti gli altri abbiano parlato, e verrano date sempre in ordine di arrivo.
-
---> 
-
 Welcome! May the source be with you.
 
 ### Per quanto riguarda la commmunity:
 
 Community Call 25/04/2020
 
-<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5mNIAq5bYpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Riguardo l'app, invece:
 
