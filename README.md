@@ -1,4 +1,6 @@
 
+<!--
+
 # Oggi Sabato 25 Aprile Ore 15.00 Incontro Zoom URGENTE della community
 
 L'incontro sarà pubblico, registrato e postato su YouTube, 
@@ -14,6 +16,11 @@ Tutti coloro che desiderano parlare dovranno inviare una email a [noiappcall@gma
 richiedendo di poter parlare e *aggiungendo l'autorizzazione che il loro intervento venga registrato e postato su YouTube*.
 
 Darò il diritto di parlare a tutti inizialmente in ordine di arrivo. Eventuali nuove repliche dovranno aspettare che tutti gli altri abbiano parlato, e verrano date sempre in ordine di arrivo.
+
+--> 
+# Incontro community concluso 
+
+Posteremo presto il video su YouTube, il tempo di editarlo e ridurre i tempi morti.
 
 ## Abbiamo fatto una community, non un'app.
 
