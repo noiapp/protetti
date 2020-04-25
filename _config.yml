@@ -3,3 +3,4 @@ theme: jekyll-theme-modernist
 title: NoiApp Community
 description: Più una community che una app, ma c'è anche quella.
 show_downloads: false
+site.github.repository_url: https://github.com/noiapp
