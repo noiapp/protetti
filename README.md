@@ -1,11 +1,17 @@
 
 # Oggi Sabato 25 Aprile Ore 15.00 Incontro Zoom URGENTE della community
 
-L'incontro sarà pubblico, registrato e postato su YouTube, il link verrà postato su questo sito a breve.
+L'incontro sarà pubblico, registrato e postato su YouTube, 
 
-Potranno parlare tutti per un minuto al massimo.
+Connettersi
 
-Tutti coloro che desiderano parlare dovranno inviare una email a un indirizzo che comunicherò richiedendo di poter parlare e aggiungendo l'autorizzazione che il loro intervento venga registrato e postato su YouTube.
+Potranno parlare tutti, inizialmente per un minuto al massimo.
+
+[https://us02web.zoom.us/j/9256813844](https://us02web.zoom.us/j/9256813844)
+
+Tutti coloro che desiderano parlare dovranno inviare una email a [noiappcall@gmail.com](noiappcall@gmail.com)
+
+richiedendo di poter parlare e *aggiungendo l'autorizzazione che il loro intervento venga registrato e postato su YouTube*.
 
 Darò il diritto di parlare a tutti inizialmente in ordine di arrivo. Eventuali nuove repliche dovranno aspettare che tutti gli altri abbiano parlato, e verrano date sempre in ordine di arrivo.
 
