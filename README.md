@@ -18,21 +18,30 @@ richiedendo di poter parlare e *aggiungendo l'autorizzazione che il loro interve
 Darò il diritto di parlare a tutti inizialmente in ordine di arrivo. Eventuali nuove repliche dovranno aspettare che tutti gli altri abbiano parlato, e verrano date sempre in ordine di arrivo.
 
 --> 
-## Abbiamo fatto una community, non un'app.
 
 Welcome! May the source be with you.
 
-### Community Call 25/04/2020
+### Per quanto riguarda la commmunity:
+
+Community Call 25/04/2020
 
 <iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Demo di Protetti per Android versione alpha
+### Riguardo l'app, invece:
+
+Video Demo della app Protetti
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dPB7uXrVibc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+E dove la scarico? [Qui](https://github.com/noiapp/noi-app-android/releases/tag/0.2.0), LEGGERE BENE LE AVVERTENZE. 
+
 Se volete aiutarci con il test della app Android, aprite delle [issues](https://github.com/noiapp/noi-app-android/issues) qui.
 
-Le issues più sono chiare e precise e più sono utili. Una issue "non funziona un tubo" non serve a nulla, una issue "nella pagina 3 c'è il numero svizzero allego screenshot" è invece molto utile.
+Le issues più sono chiare e precise e più sono utili.
+
+---
+
+Da qui in poi è roba tecnica, per cui in inglese. 
 
 ## Open Source is about communities, not code
 
@@ -40,7 +49,6 @@ Le issues più sono chiare e precise e più sono utili. Una issue "non funziona 
 - [Code of Conduct](conduct.md)
 - [Want to help? Here is how.](helpus.md)
 - [Things to do](https://github.com/noiapp/project)
-- [Pre Release 0.2.0](https://github.com/noiapp/noi-app-android/releases/tag/0.2.0) 
 
 All open source software, and this one also, is distributed with absolutely No warranties! 
 
@@ -48,9 +56,9 @@ It may not work at all or even destroy your phone. You have been warned.
 
 ## Community and Code
 
-- [Gruppo di Discussione](https://groups.google.com/forum/#!forum/noiapp)
-- [Invito alla Community Slack](https://join.slack.com/t/noiapp/shared_invite/zt-dzdakd34-KvCn3HMlebqTH4ewlGamhg)
-- [Sorgenti Android](https://github.com/noiapp/noi-app-android)
-- [Sorgenti Server](https://github.com/noiapp/noiapp-backend)
-- [Sorgenti iPhone](https://github.com/noiapp/noi-app-ios)
+- [Group](https://groups.google.com/forum/#!forum/noiapp)
+- [Chat](https://join.slack.com/t/noiapp/shared_invite/zt-dzdakd34-KvCn3HMlebqTH4ewlGamhg)
+- [Android Sources](https://github.com/noiapp/noi-app-android)
+- [Server Sources](https://github.com/noiapp/noiapp-backend)
+- [iPhone Sources](https://github.com/noiapp/noi-app-ios)
 
