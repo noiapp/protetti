@@ -20,7 +20,8 @@ Darò il diritto di parlare a tutti inizialmente in ordine di arrivo. Eventuali 
 --> 
 # Incontro community concluso 
 
-Posteremo presto il video su YouTube, il tempo di editarlo e ridurre i tempi morti.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5mNIAq5bYpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Abbiamo fatto una community, non un'app.
 
