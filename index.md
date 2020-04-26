@@ -38,28 +38,22 @@ Le issues più sono chiare e precise e più sono utili.
 
 ---
 
-Da qui in poi è roba tecnica, per cui in inglese. 
+## L'Open Source riguarda le comunità, non il codice
 
----
+- [Chi siamo e cosa facciamo](about.md)
+- [Codice etico](conduct.md)
+- [Vuoi contribuire? Ecco come](helpus.md)
+- [Attività da svolgere](https://github.com/noiapp/project)
 
-## Open Source is about communities, not code
+Tutto il software open source, tra cui questo, è distribuito senza alcuna garanzia! 
 
-Welcome! May the source be with you.
+Potrebbe non funzionare del tutto ed addirittura distruggere il tuo telefono. Sei stato avvisato.
 
-- [Who we are and what we do](about.md)
-- [Code of Conduct](conduct.md)
-- [Want to help? Here is how.](helpus.md)
-- [Things to do](https://github.com/noiapp/project)
+## Comunità e Codice
 
-All open source software, and this one also, is distributed with absolutely No warranties! 
-
-It may not work at all or even destroy your phone. You have been warned.
-
-## Community and Code
-
-- [Group](https://groups.google.com/forum/#!forum/noiapp)
+- [Gruppo](https://groups.google.com/forum/#!forum/noiapp)
 - [Chat](https://join.slack.com/t/noiapp/shared_invite/zt-dzdakd34-KvCn3HMlebqTH4ewlGamhg)
-- [Android Sources](https://github.com/noiapp/noi-app-android)
-- [Server Sources](https://github.com/noiapp/noiapp-backend)
-- [iPhone Sources](https://github.com/noiapp/noi-app-ios)
+- [Sorgenti Android](https://github.com/noiapp/noi-app-android)
+- [Sorgenti Server](https://github.com/noiapp/noiapp-backend)
+- [Sorgenti iPhone](https://github.com/noiapp/noi-app-ios)
 

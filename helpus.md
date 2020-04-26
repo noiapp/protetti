@@ -1,12 +1,12 @@
 
-# Do you want to help?
+# Vuoi aiutarci?
 
-If you want to collaborate,
+Se vuoi collaborare,
 
-- subscribe to the [this](https://groups.google.com/forum/#!forum/noiapp) Google Group for normative decisions and latest news.
-- join us on Slack with this [invite link](https://join.slack.com/t/noiapp/shared_invite/zt-dzdakd34-KvCn3HMlebqTH4ewlGamhg) (please [contact me](http://linkedin.com/in/msciab) if the link is expired.
-- check [this page](https://github.com/noiapp/project) for things to do. 
-- discuss on the slack channel #todo and offer yourself to help
+- Iscriviti a [questo](https://groups.google.com/forum/#!forum/noiapp) gruppo Google per le decisioni normative e ultime novità.
+- Raggiungici su Slack utilizzando questo[link di invito](https://join.slack.com/t/noiapp/shared_invite/zt-dzdakd34-KvCn3HMlebqTH4ewlGamhg) (per favore [contattami](http://linkedin.com/in/msciab) se il link è scaduto.
+- Controlla [questa pagina](https://github.com/noiapp/project) per attività da svolgere. 
+- Chatta sul canale slack #todo e offri il tuo aiuto
 
-Currently, the coordinator has been voted as Michele Sciabarrà, so find him as @michele on slack if leaving a message on #todo is not enough.
+Attualmente è stato eletto come coordinatore Michele Sciabarrà, per cui contatta direttamente @michele su slack se messaggiare su #todo non dovesse darti esiti.
 
