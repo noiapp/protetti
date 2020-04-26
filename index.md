@@ -10,7 +10,9 @@ header:
 ---
 
 <a name="info">
-Ecco un po' di informazioni su di noi.
+Benvenuto. Siamo una Community Open Source di Developers e DevOps  che cerca di aiutare per il bene del nostro paese. 
+  
+Per ora stiamo lavorando alla messa in produzione di una app di Contact Tracing e dei relativi server.
   
 ### Per quanto riguarda la commmunity:
 
