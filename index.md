@@ -5,10 +5,13 @@ header:
   text: >
     Più una community che un'app, ma c'è anche quella.
   action:
-    label: Learn More
-    url: '/about'
+    label: Più informazioni
+    url: '#info'
 ---
 
+<a name="info">
+Ecco un po' di informazioni su di noi.
+  
 ### Per quanto riguarda la commmunity:
 
 Community Call 25/04/2020
