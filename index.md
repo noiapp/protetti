@@ -40,8 +40,6 @@ Le issues più sono chiare e precise e più sono utili.
 
 ## L'Open Source riguarda le comunità, non il codice
 
-Benvenuti! Che i sorgenti siano con voi.
-
 - [Chi siamo e cosa facciamo](about.md)
 - [Codice etico](conduct.md)
 - [Vuoi contribuire? Ecco come](helpus.md)
