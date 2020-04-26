@@ -3,13 +3,11 @@ layout: home
 header:
   title: NoiApp
   text: >
-    Open Source Contact Tracking for the Italian Population
+    Più una community che un'app, ma c'è anche quella.
   action:
     label: Learn More
     url: '/about'
 ---
-
-Welcome! May the source be with you.
 
 ### Per quanto riguarda la commmunity:
 
@@ -33,7 +31,11 @@ Le issues più sono chiare e precise e più sono utili.
 
 Da qui in poi è roba tecnica, per cui in inglese. 
 
+---
+
 ## Open Source is about communities, not code
+
+Welcome! May the source be with you.
 
 - [Who we are and what we do](about.md)
 - [Code of Conduct](conduct.md)
