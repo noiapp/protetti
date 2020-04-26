@@ -18,6 +18,8 @@ Community Call 25/04/2020
 
 <iframe width="100%" height="700px" src="https://www.youtube.com/embed/5mNIAq5bYpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Prossima call "probabilmente" martedì 28 aprile ore 18. [Votare la data](https://groups.google.com/forum/#!topic/noiapp/4ChLn547Hsk)
+
 ### Riguardo l'app, invece:
 
 Video Demo della app Protetti
