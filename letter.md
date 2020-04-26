@@ -51,3 +51,4 @@ In Fede,
 - Marco Denisi - Software Engineer
 - Marco Sinigaglia - Full-stack developer
 - Giulio Zausa - Full-stack developer
+- Giovanni Cocco - Software Engineering Craftsman
