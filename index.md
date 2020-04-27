@@ -17,13 +17,11 @@ header:
 
 URL per connettersi: [https://us02web.zoom.us/j/89979065346](https://us02web.zoom.us/j/89979065346) 
 
-Regola essenziale: richiedere la parola nella chat privata con l'host (Michele Sciabarra) con la frase:
+Appena vi collegate, se volete presentari e parlare, scrivete nella chat privata (Michele Sciabarra) la frase *Autorizzo registrazione e diffusione*.
 
-Appena vi collegate, scrivete nella chat privata (Michele Sciabarra) la frase Autorizzo Registrazione e diffusione.
+Faremo un primo giro di presentazione, seguendo l'ordine di arrivo delle autorizzazioni. 
 
-Faremo un primo giro di presentazione, seguendo l'ordine di arrivo delle richieste. 
-
-Dopo di che ci sarà un intervento di Michele Sciabarra in cui avanza la proposta. Chi vorrà interventire dovrà scrivere nella chat privata dell' host "richiedo la parola". Il tempo a disposizione verrà stabilità in base al numero di richieste.
+Dopo di che ci sarà un intervento di Michele Sciabarra in cui avanza la proposta. Chi vorrà intervenire dovrà scrivere nella chat privata dell'host "richiedo la parola". Il tempo a disposizione verrà stabilità in base al numero di richieste.
 
 A seguire discussione libera.
 
