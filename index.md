@@ -19,11 +19,13 @@ URL per connettersi: [https://us02web.zoom.us/j/89979065346](https://us02web.zoo
 
 Appena vi collegate, se volete presentari e parlare, scrivete nella chat privata (Michele Sciabarra) la frase *Autorizzo registrazione e diffusione*.
 
-Faremo un primo giro di presentazione, seguendo l'ordine di arrivo delle autorizzazioni. 
+Faremo un primo giro di presentazioni, in cui diciamo chi siamo e cosa facciamo, seguendo l'ordine di arrivo delle autorizzazioni. 
 
-Dopo di che ci sarà un intervento di Michele Sciabarra in cui avanza la proposta. Chi vorrà intervenire dovrà scrivere nella chat privata dell'host "richiedo la parola". Il tempo a disposizione verrà stabilità in base al numero di richieste.
+Dopo di che ci sarà un intervento di Michele Sciabarra in cui avanza la proposta. Chi vorrà intervenire dovrà scrivere nella chat privata dell'host "richiedo la parola". Il tempo a disposizione verrà stabilità in base al numero di persone.
 
 A seguire discussione libera.
+
+*NOTA* l'account non ha un limite nella durata della call ma un limite di 100 persone. 
 
 
 ---
