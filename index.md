@@ -3,13 +3,22 @@ layout: home
 header:
   title: NoiApp
   text: >
-    Più una community che un'app, ma c'è anche quella.
+    Martedì 27 aprile ore 18 Zoom call per fondare l'associazione NoiOpen
   action:
-    label: Più informazioni
+    label: Maggiori Informazioni
     url: '#info'
 ---
 
 <a name="info">
+  
+---
+
+Martedì 27 Aprile 2020 farò una Zoom Call con ordine del giorno: fondazione associazione NoiOpen.
+
+URL per connettersi verrà pubblicato qui Martedì un'ora prima della call.
+
+---
+
 Benvenuto. Siamo una Community Open Source di Developers e DevOps  che cerca di aiutare per il bene del nostro paese. 
   
 Per ora stiamo lavorando alla messa in produzione di una app di Contact Tracing e dei relativi server.
