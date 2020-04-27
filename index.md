@@ -13,7 +13,7 @@ header:
   
 ---
 
-Martedì 27 Aprile 2020 farò una Zoom Call con ordine del giorno: fondazione associazione NoiOpen.
+*Martedì 27 Aprile 2020, ore 18.00* farò una Zoom Call con ordine del giorno: fondazione associazione NoiOpen.
 
 URL per connettersi verrà pubblicato qui Martedì un'ora prima della call.
 
