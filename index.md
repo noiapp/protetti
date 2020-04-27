@@ -3,9 +3,9 @@ layout: home
 header:
   title: NoiApp
   text: >
-    Martedì 27 aprile ore 18 Zoom call per fondare l'associazione NoiOpen
+    Martedì 28 aprile ore 18, Zoom call per fondare l'associazione NoiOpen
   action:
-    label: Maggiori Informazioni
+    label: Maggiori Informazioni sulla call
     url: '#info'
 ---
 
@@ -13,9 +13,20 @@ header:
   
 ---
 
-*Martedì 27 Aprile 2020, ore 18.00* farò una Zoom Call con ordine del giorno: fondazione associazione NoiOpen.
+*Martedì 28 Aprile 2020, ore 18.00* Zoom Call con ordine del giorno: fondazione associazione NoiOpen.
 
-URL per connettersi verrà pubblicato qui Martedì un'ora prima della call.
+URL per connettersi: [https://us02web.zoom.us/j/89979065346](https://us02web.zoom.us/j/89979065346) 
+
+Regola essenziale: richiedere la parola nella chat privata con l'host (Michele Sciabarra) con la frase:
+
+Appena vi collegate, scrivete nella chat privata (Michele Sciabarra) la frase Autorizzo Registrazione e diffusione.
+
+Faremo un primo giro di presentazione, seguendo l'ordine di arrivo delle richieste. 
+
+Dopo di che ci sarà un intervento di Michele Sciabarra in cui avanza la proposta. Chi vorrà interventire dovrà scrivere nella chat privata dell' host "richiedo la parola". Il tempo a disposizione verrà stabilità in base al numero di richieste.
+
+A seguire discussione libera.
+
 
 ---
 
