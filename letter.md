@@ -53,3 +53,4 @@ In Fede,
 - Giulio Zausa - Full-stack developer
 - Giovanni Cocco - Software Engineering Craftsman
 - Federico Balice - Systems Engineering Leader
+- Silvio Colloca - ISO 27001 Lead Auditor & Implementer
