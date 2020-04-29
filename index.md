@@ -3,7 +3,7 @@ layout: home
 header:
   title: NoiApp
   text: >
-    Martedì 28 aprile ore 18, Zoom call per fondare l'associazione NoiOpen
+    Giovedì 30 Aprile 2020, ore 18.00 Seminario sulla tecnologia BLE
   action:
     label: Maggiori Informazioni sulla call
     url: '#info'
@@ -13,19 +13,20 @@ header:
   
 ---
 
-*Martedì 28 Aprile 2020, ore 18.00* Zoom Call con ordine del giorno: fondazione associazione NoiOpen.
+*Giovedì 30 Aprile 2020, ore 18.00* Seminario sulla tecnologia BLE.
 
-URL per connettersi: [https://us02web.zoom.us/j/89979065346](https://us02web.zoom.us/j/89979065346) 
+URL per connettersi: [https://us02web.zoom.us/j/84232398377](https://us02web.zoom.us/j/84232398377) 
 
-Appena vi collegate, se volete presentari e parlare, scrivete nella chat privata (Michele Sciabarra) la frase *Autorizzo registrazione e diffusione*.
+Seminario sul Bluetooth Low Energy, ovvero "perchè l'app certe volte non funziona?"
 
-Faremo un primo giro di presentazioni, in cui diciamo chi siamo e cosa facciamo, seguendo l'ordine di arrivo delle autorizzazioni. 
+Il relatore, nelle sue parole:
 
-Dopo di che ci sarà un intervento di Michele Sciabarra in cui avanza la proposta. Chi vorrà intervenire dovrà scrivere nella chat privata dell'host "richiedo la parola". Il tempo a disposizione verrà stabilità in base al numero di persone.
-
-A seguire discussione libera.
-
-*NOTA* l'account non ha un limite nella durata della call ma un limite di 100 persone. 
+>Io sono Nicola Grandis, ASC27 s.r.l., 20 anni di esperienza di CyberSecurity e CyberWarfare (
+>per gli addetti ai lavori, basta guardare il mio LinkedIn, capiscono).
+> Il mio intervento lo farei su "problemi e limitazioni note del contact-tracing basato su BTLE"
+>tra l'altro Apple e Google lo hanno già prontamente rinominato su consiglio dei loro legali ... 
+> ora lo chiamano "exposure risk measurament", 
+> "contact tracing" come termine lo hanno fatto sparire come termine per i problemi di cui parleremo domani
 
 
 ---
