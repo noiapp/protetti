@@ -37,11 +37,9 @@ Per ora stiamo lavorando alla messa in produzione di una app di Contact Tracing 
   
 ### Per quanto riguarda la commmunity:
 
-Community Call 25/04/2020
+Ci presentiamo, 28 Aprile 2020
 
-<iframe width="100%" height="700px" src="https://www.youtube.com/embed/5mNIAq5bYpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Prossima call "probabilmente" martedì 28 aprile ore 18. [Votare la data](https://groups.google.com/forum/#!topic/noiapp/4ChLn547Hsk)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XByBrbeC_Yk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Riguardo l'app, invece:
 
