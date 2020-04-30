@@ -29,8 +29,9 @@ Il relatore, nelle sue parole:
 > "contact tracing" come termine lo hanno fatto sparire come termine per i problemi di cui parleremo domani
 
 
+- Interverrà Marco Pierobon per illustrare il simulator
 ---
-Interverrà Marco Pierobon per illustrare il simulator
+
 
 Benvenuto. Siamo una Community Open Source di Developers e DevOps  che cerca di aiutare per il bene del nostro paese. 
   
