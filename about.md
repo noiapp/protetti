@@ -1,4 +1,4 @@
-# Noi App
+# Noi Open
 
 Lo scopo del progetto è creare un app mobile di tracciamento dei contatti basata sullo standard [DP-3T](https://github.com/DP-3T), specificamente per la popolazione Italiana
 
