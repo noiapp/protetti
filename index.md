@@ -30,6 +30,7 @@ Il relatore, nelle sue parole:
 
 
 ---
+Interverrà Marco Pierobon per illustrare il simulator
 
 Benvenuto. Siamo una Community Open Source di Developers e DevOps  che cerca di aiutare per il bene del nostro paese. 
   
