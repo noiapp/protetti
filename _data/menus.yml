@@ -5,11 +5,13 @@
 header:
   - title: Home
     url: /
-  - title: About
+  - title: Chi siamo
     url: /about
-  - title: Code of Conduct
+  - title: Codice di condotta
     url: /conduct
-  - title: Help Us!
+  - title: Vuoi aiutarci?
     url: /helpus
-  - title: Resources
+  - title: Risorse
     url: /resources
+  - title: Simulatore
+    url: /simulator
