@@ -29,7 +29,7 @@ Il relatore, nelle sue parole:
 > "contact tracing" come termine lo hanno fatto sparire come termine per i problemi di cui parleremo domani
 
 
-- Interverrà Marco Pierobon per illustrare il simulator
+Interverrà Marco Pierobon poi l'autore del simulator con l'app
 ---
 
 
