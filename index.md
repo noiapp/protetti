@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: NoiApp
+  title: NoiOpen
   text: >
     Giovedì 30 Aprile 2020, ore 18.00 Seminario sulla tecnologia BLE
   action:
