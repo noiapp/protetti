@@ -2,11 +2,13 @@
 layout: home
 header:
   title: NoiOpen
+  video: https://www.youtube.com/embed/wsQ4CmhoKsM
   text: >
     Giovedì 30 Aprile 2020, ore 18.00 Seminario sulla tecnologia BLE
   action:
     label: Maggiori Informazioni sulla call
     url: '#info'
+    
 ---
 
 <a name="info">
