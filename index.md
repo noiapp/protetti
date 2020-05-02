@@ -3,11 +3,13 @@ layout: home
 header:
   title: NoiOpen
   text: >
-   Siamo un gruppo di professionisti dell’informatica che credono nei principi dell'apertura e della trasparenza. Stiamo lavorando a un progetto Open Source per offire alla popolazione italiana: una app di contact tracing testata e funzionante, strumenti di divulgazione e informazione, e molte altre cose utili.
+    Siamo un gruppo di professionisti dell’informatica che credono nei principi dell'apertura e della trasparenza. 
+    Stiamo lavorando a un progetto Open Source per offire alla popolazione italiana: una app di contact tracing testata 
+    e funzionante, strumenti di divulgazione e informazione, e molte altre cose utili.
   action:
     label: Prossima call: 2 Maggio ore 18 - Coordinamento Android
     url: '#info'
-    
+
 ---
 
 <a name="info">
