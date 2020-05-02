@@ -4,9 +4,7 @@ header:
   title: NoiOpen
   video: https://www.youtube.com/embed/wsQ4CmhoKsM
   text: >
-   Siamo un gruppo di professionisti dell’informatica e delle sue applicazioni con una consistente esperienza cumulativa nel disegno e 
-   realizzazione di applicazioni software che includono architetture distribuite e soluzioni complesse sia lato gestione che 
-   presentazione, e i relativi requisiti di affidabilità, scalabilità e sicurezza. Stiamo lavorando a un progetto Open Source per offire alla popolazione italiana una app di contact tracing testata e funzionante.
+   Siamo un gruppo di professionisti dell’informatica che credono nei principi dell'apertura, della trasparenza e dell'inclusività. Stiamo lavorando a un progetto Open Source per offire alla popolazione italiana una app di contact tracing testata e funzionante, divulgazione e informazione, e molte altre cose utili.
   action:
     label: Prossima call: 2 Maggio ore 18 - Coordinamento Android
     url: '#info'
