@@ -7,11 +7,12 @@ header:
     url: https://groups.google.com/forum/#!forum/noiapp
   - title: Chi siamo
     url: https://app.slack.com/client/T0122ETMFQV/learning-slack
+  - title: Simulatore
+    url: /simulator
   - title: Codice di condotta
     url: /conduct
   - title: Vuoi aiutarci?
     url: /helpus
   - title: Risorse
     url: /resources
-  - title: Simulatore
-    url: /simulator
+ 
