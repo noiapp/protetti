@@ -3,8 +3,9 @@ layout: home
 header:
   title: NoiOpen
   video: https://www.youtube.com/embed/wsQ4CmhoKsM
+  videodescription: Video della call 30 Aprile: Debug App, Bluetooth, Covid Simulator con app 
   text: >
-    Giovedì 30 Aprile 2020, ore 18.00 Seminario sulla tecnologia BLE
+    Prossima call: Sabato 2 Maggio 2020, ore 18.00 Coordinamento Sviluppo Android
   action:
     label: Maggiori Informazioni sulla call
     url: '#info'
@@ -15,23 +16,11 @@ header:
   
 ---
 
-*Giovedì 30 Aprile 2020, ore 18.00* Seminario sulla tecnologia BLE.
+**Sabato 2 Maggio 2020, ore 18.00** Coordinamento Sviluppo Android
 
-URL per connettersi: [https://us02web.zoom.us/j/84232398377](https://us02web.zoom.us/j/84232398377) 
+URL per connettersi: [https://us02web.zoom.us/j/85431998161](https://us02web.zoom.us/j/85431998161) 
 
-Seminario sul Bluetooth Low Energy, ovvero "perchè l'app certe volte non funziona?"
-
-Il relatore, nelle sue parole:
-
->Io sono Nicola Grandis, ASC27 s.r.l., 20 anni di esperienza di CyberSecurity e CyberWarfare (
->per gli addetti ai lavori, basta guardare il mio LinkedIn, capiscono).
-> Il mio intervento lo farei su "problemi e limitazioni note del contact-tracing basato su BTLE"
->tra l'altro Apple e Google lo hanno già prontamente rinominato su consiglio dei loro legali ... 
-> ora lo chiamano "exposure risk measurament", 
-> "contact tracing" come termine lo hanno fatto sparire come termine per i problemi di cui parleremo domani
-
-
-Interverrà poi Marco Pierobon,  l'autore del simulator con l'app
+Ci incontreremo tutti gli sviuppatori Android e i Tester per coordinare le attività
 
 ---
 
