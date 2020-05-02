@@ -7,7 +7,7 @@ header:
     Stiamo lavorando a un progetto Open Source per offire alla popolazione italiana: una app di contact tracing testata 
     e funzionante, strumenti di divulgazione e informazione, e molte altre cose utili.
   action:
-    label: Prossima call 2 Maggio ore 18 - Coordinamento Android
+    label: Prossima call 3 Maggio ore 18 - Coordinamento Backend
     url: '#info'
 ---
 
@@ -15,11 +15,11 @@ header:
   
 ---
 
-**Sabato 2 Maggio 2020, ore 18.00** Coordinamento Sviluppo Android
+**Sabato 3 Maggio 2020, ore 18.00** Coordinamento Sviluppo Backend
 
 URL per connettersi: [https://us02web.zoom.us/j/85431998161](https://us02web.zoom.us/j/85431998161) 
 
-Incontreremo gli sviuppatori Android e i Tester per coordinare le attività
+Incontreremo gli sviuppatori Backend e i Tester per coordinare le attività
 
 ---
 
