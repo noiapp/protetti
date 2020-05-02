@@ -42,7 +42,7 @@ Video Demo della app Protetti
 
 ### Dove scarico l'app? 
 
-[Scaricala da qui. LEGGERE BENE LE AVVERTENZE](https://github.com/noiapp/noi-app-android/releases/tag/0.2.0) 
+[Scaricala da qui. LEGGERE BENE LE AVVERTENZE](https://github.com/noiapp/noi-app-android/releases/tag/0.3.0) 
 
 Se volete aiutarci con il test della app Android, aprite delle [issues](https://github.com/noiapp/noi-app-android/issues) qui.
 
