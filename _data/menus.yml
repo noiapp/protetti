@@ -3,8 +3,8 @@
 # However on github-pages custom plugins are disabled, and the script doesn't
 # run. So please, fill in any custom menu entry here.
 header:
-  - title: Home
-    url: /
+  - title: Gruppo
+    url: https://groups.google.com/forum/#!forum/noiapp
   - title: Chi siamo
     url: /about
   - title: Codice di condotta
