@@ -3,7 +3,6 @@ layout: home
 header:
   title: NoiOpen
   video: https://www.youtube.com/embed/wsQ4CmhoKsM
-  videodescription: Video della call 30 Aprile: Debug App, Bluetooth, Covid Simulator con app 
   text: >
     Prossima call: Sabato 2 Maggio 2020, ore 18.00 Coordinamento Sviluppo Android
   action:
