@@ -9,7 +9,6 @@ header:
   action:
     label: Prossima call: 2 Maggio ore 18 - Coordinamento Android
     url: '#info'
-
 ---
 
 <a name="info">
