@@ -9,6 +9,7 @@ header:
    presentazione, e i relativi requisiti di affidabilità, scalabilità e sicurezza.   
    
    Prossima call: Sabato 2 Maggio 2020, ore 18.00 Coordinamento Sviluppo Android
+   
   action:
     label: Maggiori Informazioni sulla call
     url: '#info'
