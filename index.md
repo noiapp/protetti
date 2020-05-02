@@ -27,9 +27,7 @@ Incontreremo gli sviuppatori Android e i Tester per coordinare le attività
 
 Video Demo:
 
-<iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/wsQ4CmhoKsM" 
-    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315"  src="https://www.youtube.com/embed/dPB7uXrVibc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Dove scarico l'app? 
@@ -44,13 +42,22 @@ Tutto il software open source, tra cui questo, è distribuito senza alcuna garan
 
 ### Voci della commmunity
 
-Terzo meeting, 30 Aprile 2020. Debug dell'app, Seminario sul Bluetooth, Simulator con l'App
-<iframe width="560" height="315"  src="https://www.youtube.com/embed/dPB7uXrVibc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### Terzo meeting: 30 Aprile 2020
 
-Secondo Meeting: fondazione NoiOpen
+Funzioni di test dell'app, Seminario sul Bluetooth, Simulator con l'App
+
+<iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/wsQ4CmhoKsM" 
+    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Secondo Meeting: 28 Aprile 2020
+
+Fondazione di NoiOpen.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XByBrbeC_Yk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Primo Meeting: l'avventura comincia
+### Primo Meeting: 25 Aprile 2020
+
+L'avventura comincia.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5mNIAq5bYpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
