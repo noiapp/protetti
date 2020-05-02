@@ -6,12 +6,9 @@ header:
   text: >
    Siamo un gruppo di professionisti dell’informatica e delle sue applicazioni con una consistente esperienza cumulativa nel disegno e 
    realizzazione di applicazioni software che includono architetture distribuite e soluzioni complesse sia lato gestione che 
-   presentazione, e i relativi requisiti di affidabilità, scalabilità e sicurezza.   
-   
- 
-   
+   presentazione, e i relativi requisiti di affidabilità, scalabilità e sicurezza. Stiamo lavorando a un progetto Open Source per offire alla popolazione italiana una app di contact tracing testata e funzionante.
   action:
-    label: Prossima call 2 Maggio ore 18
+    label: Prossima call: 2 Maggio ore 18 - Coordinamento Android
     url: '#info'
     
 ---
@@ -24,28 +21,15 @@ header:
 
 URL per connettersi: [https://us02web.zoom.us/j/85431998161](https://us02web.zoom.us/j/85431998161) 
 
-Ci incontreremo tutti gli sviuppatori Android e i Tester per coordinare le attività
+Incontreremo gli sviuppatori Android e i Tester per coordinare le attività
 
 ---
 
+### La app Protetti
 
-Benvenuto. Siamo una Community Open Source di Developers e DevOps  che cerca di aiutare per il bene del nostro paese. 
-  
-Per ora stiamo lavorando alla messa in produzione di una app di Contact Tracing e dei relativi server.
-  
-### Per quanto riguarda la commmunity:
+Video Demo:
 
-Debug dell'app, Bluetooth, Simulator con l'App, 30 Aprile 2020
-
-<iframe width="560" height="315" 
-       src="https://www.youtube.com/embed/wsQ4CmhoKsM" 
-      frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Riguardo l'app, invece:
-
-Video Demo della app Protetti
-
-<iframe width="100%" height="700px" src="https://www.youtube.com/embed/dPB7uXrVibc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315"  src="https://www.youtube.com/embed/dPB7uXrVibc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Dove scarico l'app? 
 
@@ -55,24 +39,12 @@ Se volete aiutarci con il test della app Android, aprite delle [issues](https://
 
 Le issues più sono chiare e precise e più sono utili.
 
----
-
-## L'Open Source riguarda le comunità, non il codice
-
-- [Chi siamo e cosa facciamo](about.md)
-- [Codice etico](conduct.md)
-- [Vuoi contribuire? Ecco come](helpus.md)
-- [Attività da svolgere](https://github.com/noiapp/project)
-
 Tutto il software open source, tra cui questo, è distribuito senza alcuna garanzia! 
 
-Potrebbe non funzionare del tutto ed addirittura distruggere il tuo telefono. Sei stato avvisato.
+### Voci della commmunity
 
-## Comunità e Codice
+Terzo meeting, 30 Aprile 2020. Debug dell'app, Seminario sul Bluetooth, Simulator con l'App
 
-- [Gruppo](https://groups.google.com/forum/#!forum/noiapp)
-- [Chat](https://join.slack.com/t/noiapp/shared_invite/zt-dzdakd34-KvCn3HMlebqTH4ewlGamhg)
-- [Sorgenti Android](https://github.com/noiapp/noi-app-android)
-- [Sorgenti Server](https://github.com/noiapp/noiapp-backend)
-- [Sorgenti iPhone](https://github.com/noiapp/noi-app-ios)
-
+<iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/wsQ4CmhoKsM" 
+    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
