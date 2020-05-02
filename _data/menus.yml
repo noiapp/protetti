@@ -5,8 +5,10 @@
 header:
   - title: Gruppo
     url: https://groups.google.com/forum/#!forum/noiapp
-  - title: Chi siamo
+  - title: Chat
     url: https://app.slack.com/client/T0122ETMFQV/learning-slack
+   - title: Cose da fare
+    url: /CoseDaFare
   - title: Simulatore
     url: /simulator
   - title: Codice di condotta
