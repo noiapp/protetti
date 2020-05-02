@@ -7,7 +7,7 @@ header:
     Stiamo lavorando a un progetto Open Source per offire alla popolazione italiana: una app di contact tracing testata 
     e funzionante, strumenti di divulgazione e informazione, e molte altre cose utili.
   action:
-    label: Prossima call: 2 Maggio ore 18 - Coordinamento Android
+    label: Prossima call 2 Maggio ore 18 - Coordinamento Android
     url: '#info'
 ---
 
