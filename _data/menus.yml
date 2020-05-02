@@ -13,7 +13,6 @@ header:
     url: /helpus
   - title: Risorse
     url: /resources
-
 icons:
   - title: Gruppo Google
     icon: fas fa-users
