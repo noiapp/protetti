@@ -6,8 +6,8 @@ header:
   text: >
    Siamo un gruppo di professionisti dell’informatica e delle sue applicazioni con una consistente esperienza cumulativa nel disegno e realizzazione di applicazioni software che includono architetture distribuite e soluzioni complesse sia lato gestione che presentazione, e i relativi requisiti di affidabilità, scalabilità e sicurezza.
     
-    
- **Prossima call: Sabato 2 Maggio 2020, ore 18.00 Coordinamento Sviluppo Android**
+  text: >  
+ Prossima call: Sabato 2 Maggio 2020, ore 18.00 Coordinamento Sviluppo Android
   action:
     label: Maggiori Informazioni sulla call
     url: '#info'
