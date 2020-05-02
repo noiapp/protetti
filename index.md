@@ -4,6 +4,7 @@ header:
   title: NoiOpen
   video: https://www.youtube.com/embed/wsQ4CmhoKsM
   text: >
+   Siamo un gruppo di professionisti dell’informatica e delle sue applicazioni con una consistente esperienza cumulativa nel disegno e realizzazione di applicazioni software che includono architetture distribuite e soluzioni complesse sia lato gestione che presentazione, e i relativi requisiti di affidabilità, scalabilità e sicurezza.
     Prossima call: Sabato 2 Maggio 2020, ore 18.00 Coordinamento Sviluppo Android
   action:
     label: Maggiori Informazioni sulla call
@@ -30,9 +31,9 @@ Per ora stiamo lavorando alla messa in produzione di una app di Contact Tracing 
   
 ### Per quanto riguarda la commmunity:
 
-Ci presentiamo, 28 Aprile 2020
+Debug dell'app, Bluetooth, Simulator con l'App, 30 Aprile 2020
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XByBrbeC_Yk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=wsQ4CmhoKsM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Riguardo l'app, invece:
 
