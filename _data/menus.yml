@@ -3,17 +3,23 @@
 # However on github-pages custom plugins are disabled, and the script doesn't
 # run. So please, fill in any custom menu entry here.
 header:
-  - title: Home
-    url: /
-  - title: Chi siamo
-    url: /about
+  - title: Cose da fare
+    url: /CoseDaFare 
+  - title: Simulatore
+    url: /simulator
   - title: Codice di condotta
     url: /conduct
   - title: Vuoi aiutarci?
     url: /helpus
   - title: Risorse
     url: /resources
-  - title: Simulatore
-    url: /simulator
-  - title: Ruoli
-    url: /roles
+icons:
+  - title: Gruppo Google
+    icon: fas fa-users
+    url: https://groups.google.com/forum/#!forum/noiapp
+  - title: Slack
+    icon: fab fa-slack
+    url: https://app.slack.com/client/T0122ETMFQV/learning-slack
+  - title: GitHub
+    icon: fab fa-github
+    url: https://github.com/noiapp/
