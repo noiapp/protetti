@@ -8,10 +8,10 @@ header:
    realizzazione di applicazioni software che includono architetture distribuite e soluzioni complesse sia lato gestione che 
    presentazione, e i relativi requisiti di affidabilità, scalabilità e sicurezza.   
    
-   Prossima call: Sabato 2 Maggio 2020, ore 18.00 Coordinamento Sviluppo Android
+ 
    
   action:
-    label: Maggiori Informazioni sulla call
+    label: Prossima call 2 Maggio ore 18
     url: '#info'
     
 ---
