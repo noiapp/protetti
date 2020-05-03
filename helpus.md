@@ -37,7 +37,7 @@ Presidente pro-tempore: Sciabarra', Michele
 Segretario pro-tempore: Garatton, Olivier
 
 Project Manager iOS:
-TBC
+Curti', Antonino
 
 Project Manager Android:
 Paolucci, Simone
