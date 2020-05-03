@@ -6,23 +6,13 @@ header:
     Siamo un gruppo di professionisti dell’informatica che credono nei principi dell'apertura e della trasparenza. 
     Stiamo lavorando a dei progetti Open Source, tra cui una app per il test della tecnologia bluetooth per il contact tracing, server per gestire i dati, un simulatore per valutare l'impatto dell'app.
   action:
-    label: Prossima call 3 Maggio ore 18 - Coordinamento Backend
+    label: Maggiori Informazioni
     url: '#info'
 ---
 
 <a name="info">
   
----
-
-**Domenica 3 Maggio 2020, ore 18.00** Coordinamento Sviluppo Backend
-
-URL per connettersi: [https://us02web.zoom.us/j/85431998161](https://us02web.zoom.us/j/85431998161) 
-
-Incontreremo gli sviuppatori Backend e i Tester per coordinare le attività
-
----
-
-### La app Protetti
+### La app Protetti per il test preliminare
 
 Video Demo:
 
@@ -39,7 +29,7 @@ Le issues più sono chiare e precise e più sono utili.
 
 Tutto il software open source, tra cui questo, è distribuito senza alcuna garanzia! 
 
-### Voci della commmunity
+### I meetings della della commmunity
 
 #### Terzo meeting: 30 Aprile 2020
 
