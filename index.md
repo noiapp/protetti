@@ -14,7 +14,7 @@ header:
   
 ---
 
-**Sabato 3 Maggio 2020, ore 18.00** Coordinamento Sviluppo Backend
+**Domenica 3 Maggio 2020, ore 18.00** Coordinamento Sviluppo Backend
 
 URL per connettersi: [https://us02web.zoom.us/j/85431998161](https://us02web.zoom.us/j/85431998161) 
 
