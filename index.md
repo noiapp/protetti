@@ -2,36 +2,21 @@
 layout: home
 header:
   title: NoiOpen
-  video: https://www.youtube.com/embed/wsQ4CmhoKsM
   text: >
-   Siamo un gruppo di professionisti dell’informatica e delle sue applicazioni con una consistente esperienza cumulativa nel disegno e 
-   realizzazione di applicazioni software che includono architetture distribuite e soluzioni complesse sia lato gestione che 
-   presentazione, e i relativi requisiti di affidabilità, scalabilità e sicurezza. Stiamo lavorando a un progetto Open Source per offire alla popolazione italiana una app di contact tracing testata e funzionante.
+    Siamo un gruppo di professionisti dell’informatica che credono nei principi dell'apertura e della trasparenza. 
+    Stiamo lavorando a dei progetti Open Source, tra cui una app per il test della tecnologia bluetooth per il contact tracing, server per gestire i dati, un simulatore per valutare l'impatto dell'app.
   action:
-    label: Prossima call: 2 Maggio ore 18 - Coordinamento Android
+    label: Maggiori Informazioni
     url: '#info'
-    
 ---
 
 <a name="info">
   
----
-
-**Sabato 2 Maggio 2020, ore 18.00** Coordinamento Sviluppo Android
-
-URL per connettersi: [https://us02web.zoom.us/j/85431998161](https://us02web.zoom.us/j/85431998161) 
-
-Incontreremo gli sviuppatori Android e i Tester per coordinare le attività
-
----
-
-### La app Protetti
+### La app Protetti per il test preliminare
 
 Video Demo:
 
-<iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/wsQ4CmhoKsM" 
-    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315"  src="https://www.youtube.com/embed/dPB7uXrVibc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Dove scarico l'app? 
@@ -44,15 +29,24 @@ Le issues più sono chiare e precise e più sono utili.
 
 Tutto il software open source, tra cui questo, è distribuito senza alcuna garanzia! 
 
-### Voci della commmunity
+### I meetings della della commmunity
 
-Terzo meeting, 30 Aprile 2020. Debug dell'app, Seminario sul Bluetooth, Simulator con l'App
-<iframe width="560" height="315"  src="https://www.youtube.com/embed/dPB7uXrVibc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### Terzo meeting: 30 Aprile 2020
 
-Secondo Meeting: fondazione NoiOpen
+Funzioni di test dell'app, Seminario sul Bluetooth, Simulator con l'App
+
+<iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/wsQ4CmhoKsM" 
+    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Secondo Meeting: 28 Aprile 2020
+
+Fondazione di NoiOpen.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XByBrbeC_Yk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Primo Meeting: l'avventura comincia
+### Primo Meeting: 25 Aprile 2020
+
+L'avventura comincia.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5mNIAq5bYpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
