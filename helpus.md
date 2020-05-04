@@ -25,7 +25,7 @@ Attualmente è stato eletto come coordinatore Michele Sciabarrà, per cui contat
 - Una volra completata l'implementazione, proporranno una Pull Request: 
 	- buona norma e' di inserire il numero della issue al fondo del messaggio di commit, ad esempio per issue numero 42: 'Adding feature XYZ #42'.
 - Ogni PR ha bisogno di almeno una review da parte di un Core Developer.
-- Dopo che la PR ha ricevuto conferma (Approved) da almeno un Core Developer, o on Core Developer o un PM potranno chiudere completare il Merge e chiudere la issue.
+- Dopo che la PR ha ricevuto conferma (Approved) da almeno un Core Developer, un Core Developer od un PM potranno completare il Merge e chiudere la issue.
 
 
 <h2>Ruoli:</h2>
@@ -41,12 +41,16 @@ Curti', Antonino
 
 Project Manager Android:
 Paolucci, Simone
+
 Balice, Federico
+
 Di Lorenzo, Pierluigi
 
 PM Backend:
 Sucameli, Giuseppe
+
 Paolucci, Simone
+
 Calabrese, Alessio
 
 Webmaster:
