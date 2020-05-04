@@ -3,8 +3,8 @@
 # However on github-pages custom plugins are disabled, and the script doesn't
 # run. So please, fill in any custom menu entry here.
 header:
-  - title: Cose da fare
-    url: /CoseDaFare 
+  - title: Ultime Notizie
+    url: /news/2020-04-05
   - title: Simulatori
     url: /simulators
   - title: Codice di condotta
