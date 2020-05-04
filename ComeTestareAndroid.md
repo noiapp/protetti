@@ -79,6 +79,7 @@ Per rieseguire il test, Resettare l'SDK (vedi procedura: Corretto reset SDK)
     + Verificare che la voce "Incontro positivo" sia "no"
     + Verificare che la voce "Numero di Handshake" sia 0
 
+Se il reset non è avvenuto correttamente, riavviare il dispositivo.  
 
 
 
