@@ -4,7 +4,7 @@
 # run. So please, fill in any custom menu entry here.
 header:
   - title: Ultime Notizie
-    url: /news/2020-04-05
+    url: news-2020-05-04
   - title: Simulatori
     url: /simulators
   - title: Codice di condotta
