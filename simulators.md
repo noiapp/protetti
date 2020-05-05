@@ -1,8 +1,12 @@
 # Simulatori Covid-19 con App
 
-Tre simulatori di Covid-19 modificati per considerare il fattore "app"
+Nuovo Simulatore "joined forces":
 
-- [by Marco Pierobon](simulator)
+[Simulatore v0.2 by Marco Pierobon, Gioele Luchetti & Giuseppe Sucameli](simulator)
+
+I Tre simulatori originali di Covid-19 modificati per considerare il fattore "app"
+
+- [by Marco Pierobon](simulator1)
 - [by Gioele Luchetti](simulator2)
 - [by Giuseppe Sucameli](simulator3)
 
