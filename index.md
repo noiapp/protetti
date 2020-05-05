@@ -32,6 +32,12 @@ Tutto il software open source, tra cui questo, è distribuito senza alcuna garan
 
 ### I meetings della della commmunity
 
+#### Quarto meeting: Coordinamento Android
+
+Coordinamento Android
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8uvnEXyyYvw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Terzo meeting: 30 Aprile 2020
 
 Funzioni di test dell'app, Seminario sul Bluetooth, Simulator con l'App
@@ -39,6 +45,10 @@ Funzioni di test dell'app, Seminario sul Bluetooth, Simulator con l'App
 <iframe width="560" height="315" 
     src="https://www.youtube.com/embed/wsQ4CmhoKsM" 
     frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Discussione
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ObI3wOgMjY0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 
 ### Secondo Meeting: 28 Aprile 2020
