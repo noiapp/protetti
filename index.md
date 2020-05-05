@@ -24,9 +24,7 @@ Video Demo:
 
 [Scaricala da qui. LEGGERE BENE LE AVVERTENZE](https://github.com/noiapp/noi-app-android/releases/tag/0.3.0) 
 
-Se volete aiutarci con il test della app Android, aprite delle [issues](https://github.com/noiapp/noi-app-android/issues) qui.
-
-Le issues più sono chiare e precise e più sono utili.
+Se volete aiutarci con il test della app Android, [seguite questa procedura](ComeTestareAndroid).
 
 Tutto il software open source, tra cui questo, è distribuito senza alcuna garanzia! 
   
