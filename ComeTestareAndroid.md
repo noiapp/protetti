@@ -21,7 +21,7 @@ Nella descrizione dei test puoi fare riferimento al numero del device (es: #1)
 - Ricezione segnalazione dell'incontro con il contagiato
 
 ### Test di Ricezione handshake
-1. Abilitare bluetooth e tracciazione sui device
+1. Abilitare bluetooth e tracciamento sui device
 2. Visualizzazione dalle statistiche di Debug
     + Dalla schermata principale premere il bottone "DEBUG" per visualizzare le statistiche di debug
     + Verificare che la voce "Numero di Handshake" si incrementi
@@ -64,8 +64,4 @@ Per rieseguire il test, Resettare l'SDK (vedi procedura: Ripristina SDK)
     + Verificare che la voce "Incontro positivo" sia "no"
     + Verificare che la voce "Numero di Handshake" sia 0
 
-Se il reset non è avvenuto correttamente, riavviare il dispositivo.  
-
-
-
-
+Se il reset non è avvenuto correttamente, riavviare il dispositivo.
