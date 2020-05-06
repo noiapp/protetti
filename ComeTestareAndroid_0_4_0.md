@@ -73,6 +73,7 @@ Per rieseguire il test, Resettare l'SDK (vedi procedura: Corretto reset SDK)
 2. Visualizzazione dalle statistiche di Debug
     + Dalla schermata principale premere il bottone "DEBUG" per visualizzare le statistiche di debug
     + Premere il bottone "RIPRISTINA SDK"
+    + Tornare alla schermata principale e riattivare la tracciazione
 3. Verificare che le statistiche di Debug si azzerino e operino correttamente
     + Verificare che la voce "Ultima sincronizzazione" non riporti "n/a"
     + Verificare che la voce "Certificato positivo" sia "no"
