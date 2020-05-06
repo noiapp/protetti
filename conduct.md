@@ -27,7 +27,7 @@ Ci si aspetta e sono richiesti i seguenti comportamenti da tutti i membri della 
  * Fai attenzione a ciò che ti circonda ed agli altri partecipanti. Avvisa i leader della comunità se noti una situazione pericolosa, qualcuno in difficoltà o violazioni del presente Codice di comportamento, anche se sembrano insignificanti.
  * Ricorda che le sedi degli eventi della comunità possono essere condivise com membri pubblici; per favore rispetta tutti i mecenati delle località. 
  
-## 4. Comportemnto inaccettabile
+## 4. Comportamento inaccettabile
 
 I seguenti comportamenti sono considerati molestie e sono inaccettabili all'interno della nostra comunità:
 
