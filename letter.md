@@ -1,4 +1,4 @@
-Lettera aperta al Ministro dell’Innovazione Tecnologica e della Digitalizzazione, Dott. Paola Pisano
+Lettera aperta al Ministro dell’Innovazione Tecnologica e della Digitalizzazione, Dott.ssa Paola Pisano
 
 
 
@@ -16,7 +16,7 @@ Abbiamo accolto con entusiasmo la conferma che il progetto tecnico avrà una sol
 
  
 
-Il termine open source non e’ in contraddizione con una chiara divisione di responsabilità o di efficienza:  la nostra collaborazione non cambierebbe il ruolo di guida assegnato all’azienda selezionata dall’Ordinanza, ma anzi ne garantirebbe il supporto e un aiuto.
+Il termine open source non è in contraddizione con una chiara divisione di responsabilità o di efficienza:  la nostra collaborazione non cambierebbe il ruolo di guida assegnato all’azienda selezionata dall’Ordinanza, ma anzi ne garantirebbe il supporto e un aiuto.
 
   
 

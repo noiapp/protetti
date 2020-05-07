@@ -2,7 +2,7 @@
 layout: home
 header:
   title: NoiOpen
-  text: "Siamo un gruppo di professionisti dell’informatica che credono nei principi dell'apertura e della trasparenza. Stiamo lavorando a dei progetti Open Source, tra cui una app per il test della tecnologia bluetooth per il contact tracing, server per gestire i dati, un simulatore per valutare l'impatto dell'app."
+  text: "Siamo un gruppo di professionisti dell’informatica che credono nei principi dell'apertura e della trasparenza. Stiamo lavorando a dei progetti Open Source, tra cui un'app per il test della tecnologia bluetooth per il contact tracing, server per gestire i dati, un simulatore per valutare l'impatto dell'app."
   action:
     label: Su Zoom Mercoledì 16.15 Statuto 18.00 Embedded
     url: '#info'
@@ -14,7 +14,7 @@ header:
 Host Oliver Gratton
 
 1. finalità dell'associazione/Scopi
-1. identifichiamo tra le varie forme associative quella che riteniamo più idonea al ns scopo e la proponiamo alla community
+1. identifichiamo tra le varie forme associative quella che riteniamo più idonea al nostro scopo e la proponiamo alla community
 1. identifichiamo le procedure di registrazione e relativi costi
 1. proponiamo una struttura che riteniamo adatta allo scopo (direttivo, soci fondatori, soci/iscritti, adesioni nuovi ecc...)
 
@@ -26,7 +26,7 @@ Discussione preliminare per il progetto "Embedded"
 
 Link [https://us02web.zoom.us/j/85431998161](https://us02web.zoom.us/j/85431998161)
 
-### La app Protetti per il test preliminare
+### L'app Protetti per il test preliminare
 
 Video Demo:
 
@@ -37,12 +37,12 @@ Video Demo:
 
 [Scaricala da qui. LEGGERE BENE LE AVVERTENZE](https://github.com/noiapp/noi-app-android/releases/tag/0.3.0) 
 
-Se volete aiutarci con il test della app Android, [seguite questa procedura](ComeTestareAndroid).
+Se volete aiutarci con il test dell'app Android, [seguite questa procedura](ComeTestareAndroid).
 
 Tutto il software open source, tra cui questo, è distribuito senza alcuna garanzia! 
   
 
-### I meetings della della commmunity
+### I meetings della commmunity
 
 #### Quarto meeting: Coordinamento Android
 
@@ -75,5 +75,3 @@ Fondazione di NoiOpen.
 L'avventura comincia.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5mNIAq5bYpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-  

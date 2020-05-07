@@ -2,9 +2,9 @@
 
 ## 1. Obbiettivo
 
-Obbietivo fondamentale di https://www.protetti.app/ è di includere il più ampio numero di contributors possibile, con quanta più variegata e differente esperienza possibile. Allo stesso tempo ci impegnamo a creare un ambiente sano e di benvenuto per tutti, senza distinzione di genere, orientamento sessuale, abilità, etnia, stato socioecnomico, e religione (o sua mancanza).
+Obbiettivo fondamentale di https://www.protetti.app/ è di includere il più ampio numero di contributors possibile, con quanta più variegata e differente esperienza possibile. Allo stesso tempo ci impegniamo a creare un ambiente sano e di benvenuto per tutti, senza distinzione di genere, orientamento sessuale, abilità, etnia, stato socioeconomico, e religione (o sua mancanza).
 
-Questo codice di comportamento delinea le nostre aspettative per tutti coloro che partecipano alla nostra comunità, così come le conseguenze di attegiamenti inaccettabili.
+Questo codice di comportamento delinea le nostre aspettative per tutti coloro che partecipano alla nostra comunità, così come le conseguenze di atteggiamenti inaccettabili.
 
 Invitiamo tutti coloro che vogliono partecipare a https://www.protetti.app/ ad aiutarci a creare esperienze sane e positive per tutti.
 
@@ -14,7 +14,7 @@ Un obbiettivo supplementare di questo Codice di Comportamento è di incrementare
 
 Le comunità rispecchiano la società nelle quali esistono e l'azione positiva è essenziale per contrastare le differenti forme di diseguaglianza e gli abusi di potere che esistono nella società.
 
-Se sai di qualcuno che sta faccedo uno sforzo extra per fare si che la nostra comunità sia benvoluta, e incoraggia tutti i partecipanti a contribuire nella massima misura possibile, lo vogliamo conoscere. 
+Se sai di qualcuno che sta facendo uno sforzo extra per fare si che la nostra comunità sia benvoluta, e incoraggia tutti i partecipanti a contribuire nella massima misura possibile, lo vogliamo conoscere. 
 
 ## 3. Comportamento atteso
 
@@ -25,7 +25,7 @@ Ci si aspetta e sono richiesti i seguenti comportamenti da tutti i membri della 
  * Tentare la collaborazione prima e non lo scontro.
  * Astenersi da parole e comportamenti umilianti, discriminatori o molesti.
  * Fai attenzione a ciò che ti circonda ed agli altri partecipanti. Avvisa i leader della comunità se noti una situazione pericolosa, qualcuno in difficoltà o violazioni del presente Codice di comportamento, anche se sembrano insignificanti.
- * Ricorda che le sedi degli eventi della comunità possono essere condivise com membri pubblici; per favore rispetta tutti i mecenati delle località. 
+ * Ricorda che le sedi degli eventi della comunità possono essere condivise con membri pubblici; per favore rispetta tutti i mecenati delle località. 
  
 ## 4. Comportamento inaccettabile
 
@@ -38,18 +38,18 @@ I seguenti comportamenti sono considerati molestie e sono inaccettabili all'inte
  * Insulti personali, in particolare quelli relativi a genere, orientamento sessuale, razza, religione o disabilità.
  * Fotografie o registrazioni inappropriate.
  * Contatto fisico inappropriato. Dovresti avere il consenso di qualcuno prima di toccarlo.
- * Attenzione sessuale indesiderata. Include commenti o battute sessuali; contatti inadeguati, palpeggiamento, e avances sessuali indesiderate.
+ * Attenzione sessuale indesiderata. Include commenti o battute sessuali; contatti inadeguati, palpeggiamento, e avance sessuali indesiderate.
  * Intimidazione deliberata, fare stalking o following (online o di persona).
  * Sostenere o incoraggiare uno dei comportamenti sopra indicati.
  * Interruzione sostenuta degli eventi della comunità, inclusi colloqui e presentazioni.
 
 ## 5. Policy sulle armi
 
-Non è consentita nessna arma agli eventi https://www.protetti.app/ , negli spazi della comunità, in altri spazi coperti dall'ambito di questo Codice di Comportamento. Per armi si intende, ma non solo, pistole, esplosivi (compresi i fuochi d'artificio) e grandi coltelli com quelli usati per la caccia o da esposizione, così come ogni altro oggetto utilizzabile allo scopo di causare danno o ferire gli altri. Sarà chiesto a chiunque visto in possesso di uno di questi oggetti di andarsene all'istante, e sarà concesso di rientrare senza l'arma. Si prevede inoltre che i membri della comunità rispettino tutte le leggi statali e locali in materia.
+Non è consentita nessuna arma agli eventi https://www.protetti.app/ , negli spazi della comunità, in altri spazi coperti dall'ambito di questo Codice di Comportamento. Per armi si intende, ma non solo, pistole, esplosivi (compresi i fuochi d'artificio) e grandi coltelli con quelli usati per la caccia o da esposizione, così come ogni altro oggetto utilizzabile allo scopo di causare danno o ferire gli altri. Sarà chiesto a chiunque visto in possesso di uno di questi oggetti di andarsene all'istante, e sarà concesso di rientrare senza l'arma. Si prevede inoltre che i membri della comunità rispettino tutte le leggi statali e locali in materia.
 
 ## 6. Conseguenze per comportamento inaccettabile
 
-Un comportaento inaccettabile di qualunque membro della comunità, inclusi sponsor e autorità decisionali, non sarà tollerato.
+Un comportamento inaccettabile di qualunque membro della comunità, inclusi sponsor e autorità decisionali, non sarà tollerato.
 
 A chiunque sia chiesto di interrompere un comportamento inaccettabile dovrebbe conformarsi immediatamente.
 
