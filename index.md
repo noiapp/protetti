@@ -10,22 +10,6 @@ header:
 
 <a name="info">
   
-## Mercoledì ore 16.15 - 17.00
-Host Oliver Gratton
-
-1. finalità dell'associazione/Scopi
-1. identifichiamo tra le varie forme associative quella che riteniamo più idonea al nostro scopo e la proponiamo alla community
-1. identifichiamo le procedure di registrazione e relativi costi
-1. proponiamo una struttura che riteniamo adatta allo scopo (direttivo, soci fondatori, soci/iscritti, adesioni nuovi ecc...)
-
-Link [https://us02web.zoom.us/j/85431998161](https://us02web.zoom.us/j/85431998161)
-
-## Mercoledì ore 18.00 - 19.00
-
-Discussione preliminare per il progetto "Embedded"
-
-Link [https://us02web.zoom.us/j/85431998161](https://us02web.zoom.us/j/85431998161)
-
 ### L'app Protetti per il test preliminare
 
 Video Demo:
