@@ -4,7 +4,7 @@ header:
   title: NoiOpen
   text: "Siamo un gruppo di professionisti dell’informatica che credono nei principi dell'apertura e della trasparenza. Stiamo lavorando a dei progetti Open Source, tra cui un'app per il test della tecnologia bluetooth per il contact tracing, server per gestire i dati, un simulatore per valutare l'impatto dell'app."
   action:
-    label: Su Zoom Mercoledì 16.15 Statuto 18.00 Embedded
+    label: Maggiori informazioni
     url: '#info'
 ---
 
