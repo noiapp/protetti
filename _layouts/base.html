@@ -1,22 +1,37 @@
 <!doctype html>
 <html>
-
 <head>
-
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <title>{% assign title_is_not_empty = page.title | is_not_empty %}{% if title_is_not_empty %}{{ page.title }} - {% endif %}{{ site.title }}</title>
 
+  <!-- Icons -->
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/icons/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/icons/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/icons/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/icons/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/icons/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/icons/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/icons/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon-180x180.png">
+  <link rel="apple-touch-icon" sizes="167x167" href="/assets/icons/apple-touch-icon-167x167.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/icons/android-icon-192x192.png">
+  <link rel="manifest" href="/assets/icons/manifest.json">
+  <link rel="shortcut icon" type="image/x-icon" href="/assets/icons/favicon.ico">
+
   <!-- Custom Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700" rel="stylesheet">
   <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" integrity="sha384-v8BU367qNbs/aIZIxuivaU55N5GPF89WBerHoGA4QTcbUjYiLQtKdrfXnqAcXyTv" crossorigin="anonymous">
+  
   <!-- Plugin CSS -->
   <link href="assets/css/magnific-popup.css" rel="stylesheet">
+  
   <!-- Theme CSS - Includes Bootstrap -->
   <link href="assets/css/creative.min.css" rel="stylesheet">
+  
   <!-- Custom CSS -->
   <link href="assets/css/main.css" rel="stylesheet">
 
@@ -27,13 +42,11 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
   <![endif]-->
     
-  <!-- Favicon -->
-  <link rel="icon" href="assets/img/favicon.ico" type="image/x-ico" />
 {% seo %}
 </head>
 
 <body id="page-top" class="{% if page.layout == site.landing_template %}landing {% endif %}">
-  {% include nav.html    section=section site=site page=page %}
+  {% include nav.html section=section site=site page=page %}
   {{ content }}
   {% include footer.html section=section site=site page=page %}
 
