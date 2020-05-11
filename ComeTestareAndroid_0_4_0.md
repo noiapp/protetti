@@ -3,11 +3,11 @@
 ## Indicare i device utilizzati per il test  
 Nella descrizione dei test puoi fare riferimento al numero del device (es: #1)  
 
-| Numero Device     | Modello       |  Versione SO      | Versione App (se usata diversa dalla 0.4.0)       |  
-| :---------------- | :------------ | :---------------- | :----------------------------------------------   |  
-| #1                |               |                   |                                                   |  
-| #2                |               |                   |                                                   |  
-| #3                |               |                   |                                                   |  
+| Numero Device     | Marca        | Modello       |  Versione SO      | Versione App (se usata diversa dalla 0.4.0)    |  
+| :---------------- | :------------| :------------ | :---------------- | :----------------------------------------------|  
+| #1                |              |               |                   |                                                |  
+| #2                |              |               |                   |                                                |  
+| #3                |              |               |                   |                                                |  
 
 ## Procedura:
 1. Scaricare l'app dall'indirizzo https://github.com/noiapp/noi-app-android/releases/tag/0.4.0  
