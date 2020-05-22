@@ -14,9 +14,9 @@ header:
   - title: Risorse
     url: /resources
 icons:
-  - title: Gruppo Google
+  - title: Forum
     icon: fas fa-users
-    url: https://groups.google.com/forum/#!forum/noiapp
+    url: https://noiopen.discourse.group/
   - title: Slack
     icon: fab fa-slack
     url: https://join.slack.com/t/noiapp/shared_invite/zt-dzdakd34-KvCn3HMlebqTH4ewlGamhg
