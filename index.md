@@ -12,14 +12,15 @@ header:
 
 ## Venerdí ore 18:30 - 20:00 - Seminario sulle Vulnerabilita' Informatiche con Bruno Bossola
 Host: Federico Balice
+
 Relatore: Bruno Bossola
 
 Agenda provvisoria:
 1. Superficie di attacco
-1. Possibilità di exploit in lbrerie grafiche come Lottie
+1. Possibilità di exploit in librerie grafiche come Lottie
 1. Pericolo di vulnerabilità che aumenta con librerie non mantenute bene
 
-Link allo Zoom meeting sara' aggiunto piu' vicino alla data.
+Il Link allo Zoom meeting sara' aggiunto piu' vicino alla data.
   
 ### L'app Protetti per il test preliminare
 
