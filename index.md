@@ -14,21 +14,22 @@ header:
 Host: Federico Balice  
 Relatore: Bruno Bossola
 
+
 Agenda:
-1. Panorama generale dell'applications security (APPSEC)
-2. security nel ciclo di sviluppo del software
-2. demo dei tools disponibili
-1. Sicurezza delle componenti opensource
-2. hack famosi
-2. perché c'e' bisogno di componenti opensource
-2. che cosa e' una vulnerabilità 
-2. superficie di attacco
-2. demo di una exploit
-1. Licenze nei componenti opensource
-2. licenze non business friendly
-2. license incompatibili
-1. Conclusione  
-1. Q&A
+1. Panorama generale dell'applications security (APPSEC)  
+    1. security nel ciclo di sviluppo del software
+    2. demo dei tools disponibili
+2. Sicurezza delle componenti opensource  
+    1. hack famosi
+    2. perché c'e' bisogno di componenti opensource
+    3. che cosa e' una vulnerabilità 
+    4. superficie di attacco
+    5. demo di una exploit
+3. Licenze nei componenti opensource  
+    1. licenze non business friendly
+    2. license incompatibili
+4. Conclusione  
+5. Q&A  
 
 Il Link allo Zoom meeting sara' aggiunto piu' vicino alla data.
   
