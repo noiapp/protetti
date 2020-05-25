@@ -11,8 +11,7 @@ header:
 <a name="info">
 
 ## Venerdí ore 18:30 - 20:00 - Seminario NoiOpen sulle Vulnerabilita' Informatiche con Bruno Bossola
-Host: Federico Balice
-
+Host: Federico Balice  
 Relatore: Bruno Bossola
 
 Agenda:
@@ -28,7 +27,8 @@ Agenda:
 1. Licenze nei componenti opensource
 2. licenze non business friendly
 2. license incompatibili
-1. Conclusione + Q&A
+1. Conclusione  
+1. Q&A
 
 Il Link allo Zoom meeting sara' aggiunto piu' vicino alla data.
   
