@@ -4,21 +4,31 @@ header:
   title: NoiOpen
   text: "Siamo un gruppo di professionisti dell’informatica che credono nei principi dell'apertura e della trasparenza. Stiamo lavorando a dei progetti Open Source, tra cui un'app per il test della tecnologia bluetooth per il contact tracing, server per gestire i dati, un simulatore per valutare l'impatto dell'app."
   action:
-    label: Su Zoom Venerdí 29/05/20 Ore 18:30 Seminario NoiOpen su Vulnerabilita' Informatiche con Bruno Bossola
+    label: Su Zoom Venerdí 29/05/20 Ore 18:30 Seminario NoiOpen sulle Vulnerabilita' Informatiche con Bruno Bossola
     url: '#info'
 ---
 
 <a name="info">
 
-## Venerdí ore 18:30 - 20:00 - Seminario sulle Vulnerabilita' Informatiche con Bruno Bossola
+## Venerdí ore 18:30 - 20:00 - Seminario NoiOpen sulle Vulnerabilita' Informatiche con Bruno Bossola
 Host: Federico Balice
 
 Relatore: Bruno Bossola
 
-Agenda provvisoria:
-1. Superficie di attacco
-1. Possibilità di exploit in librerie grafiche come Lottie
-1. Pericolo di vulnerabilità che aumenta con librerie non mantenute bene
+Agenda:
+1. Panorama generale dell'applications security (APPSEC)
+2. security nel ciclo di sviluppo del software
+2. demo dei tools disponibili
+1. Sicurezza delle componenti opensource
+2. hack famosi
+2. perché c'e' bisogno di componenti opensource
+2. che cosa e' una vulnerabilità 
+2. superficie di attacco
+2. demo di una exploit
+1. Licenze nei componenti opensource
+2. licenze non business friendly
+2. license incompatibili
+1. Conclusione + Q&A
 
 Il Link allo Zoom meeting sara' aggiunto piu' vicino alla data.
   
