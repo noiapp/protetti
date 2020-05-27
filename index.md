@@ -13,7 +13,7 @@ header:
 ## Venerdí ore 18:30 - 20:00 - Seminario NoiOpen sulle Vulnerabilita' Informatiche con Bruno Bossola
 Host: Federico Balice  
 Relatore: Bruno Bossola
-Zoom link: https://us02web.zoom.us/j/85431998161  
+Zoom link: [https://us02web.zoom.us/j/85431998161](https://us02web.zoom.us/j/85431998161)  
 
 
 Agenda:
@@ -32,7 +32,7 @@ Agenda:
 4. Conclusione  
 5. Q&A  
 
-Zoom meeting link: https://us02web.zoom.us/j/85431998161  
+Zoom meeting link: [https://us02web.zoom.us/j/85431998161](https://us02web.zoom.us/j/85431998161)  
   
 ### L'app Protetti per il test preliminare
 
